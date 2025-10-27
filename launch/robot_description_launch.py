@@ -19,7 +19,7 @@ from xmacro.xmacro4sdf import XMLMacro4sdf
 
 def launch_setup(context: LaunchContext) -> list:
     """
-    NOTE: Using OpaqueFunction in order to get the context in string format...
+    NOTE: Using OpaqueFunction in order to get the context in sptring format...
     But it is too hacky and not recommended.
     """
 
